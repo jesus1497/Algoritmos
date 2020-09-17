@@ -1,0 +1,13 @@
+C:\Users\jmag_\source\repos\Algoritmos\Algoritmos\bin\MCD\Debug\netcoreapp3.1\Algoritmos.exe
+C:\Users\jmag_\source\repos\Algoritmos\Algoritmos\bin\MCD\Debug\netcoreapp3.1\Algoritmos.deps.json
+C:\Users\jmag_\source\repos\Algoritmos\Algoritmos\bin\MCD\Debug\netcoreapp3.1\Algoritmos.runtimeconfig.json
+C:\Users\jmag_\source\repos\Algoritmos\Algoritmos\bin\MCD\Debug\netcoreapp3.1\Algoritmos.runtimeconfig.dev.json
+C:\Users\jmag_\source\repos\Algoritmos\Algoritmos\bin\MCD\Debug\netcoreapp3.1\Algoritmos.dll
+C:\Users\jmag_\source\repos\Algoritmos\Algoritmos\bin\MCD\Debug\netcoreapp3.1\Algoritmos.pdb
+C:\Users\jmag_\source\repos\Algoritmos\Algoritmos\obj\MCD\Debug\netcoreapp3.1\Algoritmos.csprojAssemblyReference.cache
+C:\Users\jmag_\source\repos\Algoritmos\Algoritmos\obj\MCD\Debug\netcoreapp3.1\Algoritmos.AssemblyInfoInputs.cache
+C:\Users\jmag_\source\repos\Algoritmos\Algoritmos\obj\MCD\Debug\netcoreapp3.1\Algoritmos.AssemblyInfo.cs
+C:\Users\jmag_\source\repos\Algoritmos\Algoritmos\obj\MCD\Debug\netcoreapp3.1\Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\jmag_\source\repos\Algoritmos\Algoritmos\obj\MCD\Debug\netcoreapp3.1\Algoritmos.dll
+C:\Users\jmag_\source\repos\Algoritmos\Algoritmos\obj\MCD\Debug\netcoreapp3.1\Algoritmos.pdb
+C:\Users\jmag_\source\repos\Algoritmos\Algoritmos\obj\MCD\Debug\netcoreapp3.1\Algoritmos.genruntimeconfig.cache
